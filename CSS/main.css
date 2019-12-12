@@ -1,0 +1,10 @@
+body{
+    overflow: hidden;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+#album{
+    margin: 5% auto;
+    width: 600px;
+    height: 500px;
+}
